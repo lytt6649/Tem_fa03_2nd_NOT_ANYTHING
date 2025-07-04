@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/1edcf5ba-7790-413b-801b-2b98eb385270
 **[영상 설명]**
 <br>주변에 수많은 음식점, 다양한 종류의 음식 사이에서
 <br>매번 어디서 무엇을 먹을지 고민하는 당신!
-<br>!ANTING에서 당신의 입맛을 검색하세요.
+<br>!ANTHING에서 당신의 입맛을 검색하세요.
 
 **[영상 스크립트]**
 <br>"What you wanna eat?"
